@@ -59,3 +59,19 @@ GZKoGGpYYB6mjU1/GGwH9i29eNeMtg0=
 =Y7tc
 -----END PGP SIGNATURE-----
 ```
+--------
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+洞友们好，临时聊天室
+https://matrix.to/#/!EQatKFuYdTTQPliatE:matrix.org?via=matrix.org
+欢迎加入
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQThMQiWzjLCqut9OdLPapRRrOIdHgUCZ8sJcAAKCRDPapRRrOId
+HpzeAP9Gtg7gxKxQtie6/rsIdRHK1ABwMQ7lR2PnHQ8sZXSCnQEAg+wTWrLp/E42
+JHJVW8c2F4HalUdAI6UcQ89SiKv1Jg8=
+=aEXg
+-----END PGP SIGNATURE-----
+```
