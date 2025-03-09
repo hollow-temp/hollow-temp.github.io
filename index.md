@@ -75,3 +75,18 @@ JHJVW8c2F4HalUdAI6UcQ89SiKv1Jg8=
 =aEXg
 -----END PGP SIGNATURE-----
 ```
+-------
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+洞友们好
+GitHub已经迁移到 github.com/pkuhollow2
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQThMQiWzjLCqut9OdLPapRRrOIdHgUCZ80QpQAKCRDPapRRrOId
+Hn9gAP9TKGB/qlJGBXJRGI/pIfe93VP1GTxFs/V3Ypt23uFx+AEA+1eNcHcz0t/s
+fdA+Vuc9MH6Yn5bN+faM+zjafN23ZA4=
+=TH/V
+-----END PGP SIGNATURE-----
+```
